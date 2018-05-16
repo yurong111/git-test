@@ -1,3 +1,2 @@
 # git-test
-b1
-b2
+b1-test
